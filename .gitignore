@@ -1,0 +1,6 @@
+venv/
+.venv/
+__pycache__/
+frames/
+*.mp4
+New Text Document.txt
